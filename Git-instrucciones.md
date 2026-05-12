@@ -19,13 +19,13 @@ git checkout -b feature/tu-nombre
 Cuando tengas el código listo:
 ```bash
 git add .
-git commit -m "feat: kata resuelta"
+git commit -m "feat: challenge resuelto"
 git push origin feature/tu-nombre
 ```
  
 ### 5. Abre una Pull Request
 1. Ve a tu fork en GitHub.
 2. Haz clic en **Compare & Pull Request**.
-3. Comprueba que la PR va de `feature/tu-nombre` → `main` de **tu fork** (no al repositorio del profesor).
+3. Comprueba que la PR va de `feature/tu-nombre` → `main` de **tu fork** (no al repositorio del tutor).
 4. Ponle un título y haz clic en **Create Pull Request**.
-> ⚠️ **No hagas merge.** El profesor revisará tu código antes de aprobarlo.
+> ⚠️ **No hagas merge.** El tutor revisará tu código antes de aprobarlo.
