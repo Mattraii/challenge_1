@@ -11,13 +11,12 @@ git clone
 ```
  
 ### 3. Crea una rama con tu nombre
-```bash
-```
+
  
 ### 4. Implementa la práctica
 Cuando tengas el código listo:
 ```bash
-
+git push 
 ```
  
 ### 5. Abre una Pull Request
